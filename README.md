@@ -27,3 +27,4 @@ You may also see any lint errors in the console.
 
 ![logo](src/assets/nn.png)
 
+# lorenzoreyes.dev
